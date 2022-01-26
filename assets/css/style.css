@@ -373,6 +373,9 @@ footer p {
     border-radius: 50%;
     margin-right: 10px;
   }
+  span {
+    font-size: large;
+  }
   .area1,
   .area2,
   .area3,
