@@ -8,4 +8,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-- [Link do projeto](https://murilonp.github.io/starbucks-flex-grid/)
+- <a href="https://murilonp.github.io/starbucks-flex-grid/" target="_blank">Link do projeto</a>
